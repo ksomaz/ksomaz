@@ -24,5 +24,5 @@
 
 ## Get in Touch
 
-📫 If you want to get in touch with me or learn more about my projects, feel free to [contact me](mailto:kursat@example.com).
+📫 If you want to get in touch with me or learn more about my projects, feel free to [contact me](mailto:dev.kursatsolmaz@gmail.com).
 
