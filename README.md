@@ -18,7 +18,7 @@
 
 - ✔️ Online Test Bank
 - ✔️ Ticket Sales Automation
-- ✔️ Hotel Reservation and Rent Automation
+- ✔️ Hotel Reservation and Rental Automation
 - ✔️ Boutique Hotel Reservation
 - ✔️ Personnel Task Management System
 
